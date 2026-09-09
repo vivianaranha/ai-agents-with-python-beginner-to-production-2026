@@ -1,0 +1,17 @@
+[
+  {
+    "id": "T-101",
+    "text": "Cannot reset password",
+    "priority": "medium"
+  },
+  {
+    "id": "T-102",
+    "text": "Payroll export failed",
+    "priority": "high"
+  },
+  {
+    "id": "T-103",
+    "text": "VPN is slow",
+    "priority": "low"
+  }
+]
